@@ -1,3 +1,1 @@
 # sales-project
-Sales android project is developed to create an online market for getting direct communication between buyer and seller. Using this android project users will be able to get product details and review various products. Users can think this project as a big market but as you can buy as you can sell. 
-If you need to purchase any product then you can just search for it and the program will locate the nearest items for you using the product details. If you explore the project and an item like you , but you don’t want to buy it now , then you just favorite the item then you can return to it any time .
